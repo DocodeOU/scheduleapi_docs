@@ -10,7 +10,7 @@ Once the task is created on **Scheduleapi** our platform then waits for the sche
 :::important
 
 If the token does not correspond to the one that is shown by our request, please check if you've granted access to other third-parties. 
-This will ensure that the calls that your endpoint is receiving are coming only allowed parties. 
+This will ensure that the calls that your endpoint is receiving are coming only from allowed parties. 
 
 :::
 
